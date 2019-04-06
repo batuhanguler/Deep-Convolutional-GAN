@@ -15,7 +15,7 @@ The success of the DCGAN will be tested as follows:
 ### Generated samples
 ![image](generated_samples.png)
 
-## Avoid mode collapse
+## Mode collapse problem
 
 One can notice two different mode collapse problems during the training of a GAN:
 1) Complete mode collapse: the generator is only able to predict one single image
