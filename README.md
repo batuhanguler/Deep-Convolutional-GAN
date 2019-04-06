@@ -27,3 +27,4 @@ In order to overcome these problems, one can:
 3) Anticipate counterplay: This approach gives an opportunity for each player to anticipate the counterplay when updating in the future. 
   This will prevent the generator to jump between two modes and never being able to predict more than one mode.
   However, this increases computational time.
+ 
